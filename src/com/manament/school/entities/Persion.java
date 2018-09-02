@@ -66,7 +66,4 @@ public abstract class Persion {
 	public void setPhoneNumber(String phoneNumber) {
 		this.phoneNumber = phoneNumber;
 	}
-	
-	
-	
 }
